@@ -1,0 +1,9 @@
+/* styles.css, index.html style sheet */
+
+div {
+    background: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
